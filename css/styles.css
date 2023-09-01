@@ -15,7 +15,7 @@ body {
   text-transform: uppercase;
 }
 
-.logo .logo-studio-word {
+.logo .logo-studio-word-header {
   color: #2e2f42;
 }
 
@@ -111,4 +111,20 @@ body {
 
 .team-info {
   background-color: #ffffff;
+}
+
+.page-footer {
+  background-color: #2e2f42;
+}
+
+.logo-studio-word-footer {
+  color: #f4f4fd;
+}
+
+.text-footer {
+  color: #f4f4fd;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
